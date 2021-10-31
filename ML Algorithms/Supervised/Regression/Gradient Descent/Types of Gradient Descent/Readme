@@ -1,1 +1,5 @@
 
+There are Three Types of gradient Descent
+              1) Batch Gradient Descent
+              2) Stochastic Gradient Descent
+              3) Mini-Batch gradient Descent
